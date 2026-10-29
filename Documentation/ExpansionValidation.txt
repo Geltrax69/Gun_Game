@@ -1,0 +1,77 @@
+Low Poly Expansion play mode smoke test
+Result: PASS
+
+PASS: Player found
+PASS: Eight robots in MainScene
+PASS: Four robot archetypes
+PASS: Bastion Siege Tank is on NavMesh
+PASS: Needle Rail Sentry is on NavMesh
+PASS: Strider Assault Walker is on NavMesh
+PASS: Bastion Siege Tank is on NavMesh
+PASS: Strider Assault Walker is on NavMesh
+PASS: Needle Rail Sentry is on NavMesh
+PASS: Wisp Scout Drone is on NavMesh
+PASS: Wisp Scout Drone is on NavMesh
+PASS: Weapon slot 1 instantiated
+PASS: Weapon slot 2 instantiated
+PASS: Viper Pistol fires
+PASS: Viper Pistol consumes one ammo
+PASS: Weapon slot 3 instantiated
+PASS: Bulldog Hand Cannon fires
+PASS: Bulldog Hand Cannon consumes one ammo
+PASS: Weapon slot 4 instantiated
+PASS: Pulse Blaster fires
+PASS: Pulse Blaster consumes one ammo
+PASS: Weapon slot 5 instantiated
+PASS: Breach Scattergun fires
+PASS: Breach Scattergun consumes one ammo
+PASS: Weapon slot 6 instantiated
+PASS: Longshot Rail Sniper fires
+PASS: Longshot Rail Sniper consumes one ammo
+PASS: Player is airborne during jump simulation
+PASS: Player weapons apply airborne error during actual airtime
+PASS: SiegeTank moves during play
+PASS: RailSentry moves during play
+PASS: AssaultWalker moves during play
+PASS: ScoutDrone moves during play
+PASS: Sniper kills full-health heavy robot in one hit
+PASS: Robot death updates enemy objective count
+PASS: Viper Pistol regenerates ammo
+PASS: Bulldog Hand Cannon regenerates ammo
+PASS: Pulse Blaster regenerates ammo
+PASS: Breach Scattergun regenerates ammo
+PASS: Longshot Rail Sniper regenerates ammo
+PASS: Blaster has airborne shooting error
+PASS: Blaster has movement shooting error
+PASS: Blaster keeps airborne penalty while aiming
+PASS: Blaster improves accuracy when aiming and crouching
+PASS: Viper Pistol has airborne shooting error
+PASS: Viper Pistol has movement shooting error
+PASS: Viper Pistol keeps airborne penalty while aiming
+PASS: Viper Pistol improves accuracy when aiming and crouching
+PASS: Bulldog Hand Cannon has airborne shooting error
+PASS: Bulldog Hand Cannon has movement shooting error
+PASS: Bulldog Hand Cannon keeps airborne penalty while aiming
+PASS: Bulldog Hand Cannon improves accuracy when aiming and crouching
+PASS: Pulse Blaster has airborne shooting error
+PASS: Pulse Blaster has movement shooting error
+PASS: Pulse Blaster keeps airborne penalty while aiming
+PASS: Pulse Blaster improves accuracy when aiming and crouching
+PASS: Breach Scattergun has airborne shooting error
+PASS: Breach Scattergun has movement shooting error
+PASS: Breach Scattergun keeps airborne penalty while aiming
+PASS: Breach Scattergun improves accuracy when aiming and crouching
+PASS: Longshot Rail Sniper has airborne shooting error
+PASS: Longshot Rail Sniper has movement shooting error
+PASS: Longshot Rail Sniper keeps airborne penalty while aiming
+PASS: Longshot Rail Sniper improves accuracy when aiming and crouching
+PASS: Active sniper fires for recoil test
+PASS: Sniper kicks player aim upward
+PASS: Recoil changes the actual camera aim
+PASS: Firing adds accuracy bloom
+PASS: Empty sniper cannot fire or add recoil again
+PASS: Airborne shots actually deviate from aim
+PASS: 100 sampled shots stay inside the configured spread cone
+PASS: Aim recoil settles after shooting stops
+PASS: Shot bloom recovers after shooting stops
+
